@@ -44,10 +44,3 @@ Upon running the application, you should see a window displaying the current tim
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or issues, please contact:
-
-- **Name**: Your Name
-- **Email**: your.email@example.com
